@@ -1,0 +1,2 @@
+educati+   24550   24549  0 00:37 pts/0    00:00:00 sh -c ps -ef | grep han > han.txt
+educati+   24552   24550  0 00:37 pts/0    00:00:00 grep han
